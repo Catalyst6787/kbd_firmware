@@ -42,3 +42,5 @@ Please change `kb`, `kr` and `km` when build other.
 ```sh
 make update-all
 ```
+
+## To flash to your corne, plug in one side at a time and press the reset button once or twice, then drag the uf2 file in the storage device.
