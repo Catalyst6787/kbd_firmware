@@ -3,6 +3,10 @@
     "usb": {
         "pid": "0x0104"
     },
+	"matrix_size": {
+		"rows": 8,
+		"cols": 7
+	},
     "rgb_matrix": {
         "split_count": [20, 20],
         "layout": [
